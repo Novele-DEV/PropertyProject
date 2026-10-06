@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/backend/" />
+  <Folder Name="/backend/Api/">
+    <Project Path="backend/Api/PropertyProject.Api.csproj" />
+  </Folder>
+  <Folder Name="/backend/Core.Tests/">
+    <Project Path="backend/Core.Tests/PropertyProject.Core.Tests.csproj" />
+  </Folder>
+  <Folder Name="/backend/Core/">
+    <Project Path="backend/Core/PropertyProject.Core.csproj" />
+  </Folder>
+  <Folder Name="/backend/Data/">
+    <Project Path="backend/Data/PropertyProject.Data.csproj" />
+  </Folder>
+</Solution>

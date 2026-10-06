@@ -1,0 +1,12 @@
+C:\Users\ailto\OneDrive\Documents\Coding Projects\PropertyProject\backend\Core\bin\Debug\net10.0\PropertyProject.Core.deps.json
+C:\Users\ailto\OneDrive\Documents\Coding Projects\PropertyProject\backend\Core\bin\Debug\net10.0\PropertyProject.Core.dll
+C:\Users\ailto\OneDrive\Documents\Coding Projects\PropertyProject\backend\Core\bin\Debug\net10.0\PropertyProject.Core.pdb
+C:\Users\ailto\OneDrive\Documents\Coding Projects\PropertyProject\backend\Core\obj\Debug\net10.0\PropertyProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ailto\OneDrive\Documents\Coding Projects\PropertyProject\backend\Core\obj\Debug\net10.0\PropertyProject.Core.AssemblyInfoInputs.cache
+C:\Users\ailto\OneDrive\Documents\Coding Projects\PropertyProject\backend\Core\obj\Debug\net10.0\PropertyProject.Core.AssemblyInfo.cs
+C:\Users\ailto\OneDrive\Documents\Coding Projects\PropertyProject\backend\Core\obj\Debug\net10.0\PropertyProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\ailto\OneDrive\Documents\Coding Projects\PropertyProject\backend\Core\obj\Debug\net10.0\PropertyProject.Core.sourcelink.json
+C:\Users\ailto\OneDrive\Documents\Coding Projects\PropertyProject\backend\Core\obj\Debug\net10.0\PropertyProject.Core.dll
+C:\Users\ailto\OneDrive\Documents\Coding Projects\PropertyProject\backend\Core\obj\Debug\net10.0\refint\PropertyProject.Core.dll
+C:\Users\ailto\OneDrive\Documents\Coding Projects\PropertyProject\backend\Core\obj\Debug\net10.0\PropertyProject.Core.pdb
+C:\Users\ailto\OneDrive\Documents\Coding Projects\PropertyProject\backend\Core\obj\Debug\net10.0\ref\PropertyProject.Core.dll
